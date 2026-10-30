@@ -1,110 +1,174 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=14&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=420&height=24&lines=Technology%2C+thoughtfully+built.;Ideas+into+impact.;Software+%C2%B7+Design+%C2%B7+AI" alt="Technology, thoughtfully built." />
+<br />
 
-# ✦ LOVI LABS
+<img src="https://raw.githubusercontent.com/lovilabs/.github/main/profile/assets/lovilabs-wordmark.png" alt="Lovi Labs" width="460" />
 
-**We turn ideas into useful digital products.**
+<br />
+<br />
 
-<p>
-  <a href="https://lovilabs.vercel.app/"><img src="https://img.shields.io/badge/Explore%20our%20website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20project-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
-</p>
+<i>Technology, thoughtfully built.</i>
 
-<p>
-  <img src="https://img.shields.io/badge/WEB%20%26%20APPS-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="Web and apps" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20DESIGN-ec4899?style=flat-square&logo=figma&logoColor=white" alt="Design" />
-  <img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-f59e0b?style=flat-square&logo=openai&logoColor=white" alt="AI and automation" />
-  <img src="https://img.shields.io/badge/DIGITAL%20STRATEGY-10b981?style=flat-square&logo=googleanalytics&logoColor=white" alt="Digital strategy" />
-</p>
+<br />
 
-<p>
-  <a href="https://www.linkedin.com/company/lovi-labs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://web.facebook.com/profile.php?id=61594162310188"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.tiktok.com/@lovi_labs"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+We turn ideas into useful digital products.
 
-</div>
+<br />
+
+<a href="https://lovilabs.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>&nbsp;<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-003087?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
+
+<br />
+
+<a href="https://www.linkedin.com/company/lovi-labs"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://web.facebook.com/profile.php?id=61594162310188"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.tiktok.com/@lovi_labs"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br />
+<br />
+
+<sub>S O F T W A R E &nbsp;&middot;&nbsp; D E S I G N &nbsp;&middot;&nbsp; A U T O M A T I O N</sub>
+
+<br />
+<br />
 
 ---
 
-## ✦ About
+<br />
 
-Lovi Labs is a technology company building practical, modern digital solutions for people and businesses.
+<sub>A B O U T</sub>
 
-We bring together **software, design, intelligent automation, and digital strategy** to turn ideas into products that are useful, intuitive, and built with purpose.
+<br />
+<br />
 
-> **Good technology should make things clearer, simpler, and better.**
+Lovi Labs is a technology company building practical, modern<br />
+digital solutions for people and businesses.
 
-## ✦ What we do
+We bring together **software, design, intelligent automation, and digital strategy**<br />
+to turn ideas into products that are useful, intuitive, and built with purpose.
+
+<br />
+
+<i>Good technology should make things clearer, simpler, and better.</i>
+
+<br />
+<br />
+
+---
+
+<br />
+
+<sub>W H A T &nbsp; W E &nbsp; D O</sub>
+
+<br />
+<br />
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Web &amp; Apps</h3>
-      Responsive websites and tailored platforms built around real needs.
+    <td align="center" width="33%" valign="top">
+      <sub>01</sub>
+      <h4>Web &amp; Applications</h4>
+      <sub>Responsive websites and tailored platforms<br />built around real needs.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Business Systems</h3>
-      Custom tools, including point-of-sale and inventory management systems.
+    <td align="center" width="33%" valign="top">
+      <sub>02</sub>
+      <h4>Business Systems</h4>
+      <sub>Custom tools, including point-of-sale<br />and inventory management.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AI &amp; Automation</h3>
-      AI assistants, workflow automation, machine-learning integrations, and custom AI solutions.
+    <td align="center" width="33%" valign="top">
+      <sub>03</sub>
+      <h4>AI &amp; Automation</h4>
+      <sub>Assistants, workflow automation,<br />and custom machine-learning solutions.</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 UI/UX Design</h3>
-      Clear, thoughtful interfaces designed around the people who use them.
+    <td align="center" width="33%" valign="top">
+      <sub>04</sub>
+      <h4>UI/UX Design</h4>
+      <sub>Clear, thoughtful interfaces designed<br />around the people who use them.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>📈 Digital Strategy</h3>
-      Practical guidance to improve how businesses work and connect with customers.
+    <td align="center" width="33%" valign="top">
+      <sub>05</sub>
+      <h4>Digital Strategy</h4>
+      <sub>Practical guidance to improve how businesses<br />work and connect with customers.</sub>
     </td>
-    <td width="33%" valign="top">
-      <h3>📣 Social Media</h3>
-      Content and marketing support to strengthen a brand's online presence.
+    <td align="center" width="33%" valign="top">
+      <sub>06</sub>
+      <h4>Social Media</h4>
+      <sub>Content and marketing support to strengthen<br />a brand's online presence.</sub>
     </td>
   </tr>
 </table>
 
-## ✦ Tools we love
+<br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,figma,vercel,git,github&perline=11" alt="Tech stack" />
-</p>
-
-## ✦ How we work
-
-| | Principle | In practice |
-| :-: | --- | --- |
-| **01** | **Understand first** | We start with the problem, the people, and the desired outcome, not the technology. |
-| **02** | **Keep it purposeful** | Every feature has a reason to exist. Clarity over unnecessary complexity. |
-| **03** | **Build for people** | Usability matters as much as functionality. The best products feel natural. |
-| **04** | **Improve continuously** | Useful software grows with the people and businesses that rely on it. |
-
-## ✦ What we believe
-
-- 💡 **Technology should be useful.**
-- 🧩 **Design should make complexity feel simple.**
-- ⏳ **Automation should give people more time for meaningful work.**
-- 🎯 **Every project should create measurable value.**
-
-## ✦ Let's build something meaningful
-
-Have an idea, a business challenge, or a process ready for improvement? We'd love to hear about it.
-
-<div align="center">
-
-<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/✦%20Start%20a%20conversation-7c3aed?style=for-the-badge" alt="Start a conversation" /></a>
-<a href="https://lovilabs.vercel.app/"><img src="https://img.shields.io/badge/Visit%20lovilabs.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit website" /></a>
+---
 
 <br />
 
-**Ideas into impact. Built with purpose.**
+<sub>H O W &nbsp; W E &nbsp; W O R K</sub>
 
-<sub>© Lovi Labs · Digital solutions for a smarter tomorrow.</sub>
+<br />
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h4>Understand first</h4>
+      <sub>We start with the problem and the people,<br />not the technology.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Keep it purposeful</h4>
+      <sub>Every feature has a reason to exist.<br />Clarity over complexity.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Build for people</h4>
+      <sub>Usability matters as much<br />as functionality.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>Improve continuously</h4>
+      <sub>Useful software grows with those<br />who rely on it.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
+<sub>W H A T &nbsp; W E &nbsp; B E L I E V E</sub>
+
+<br />
+<br />
+
+Technology should be useful.<br />
+Design should make complexity feel simple.<br />
+Automation should give people time for meaningful work.<br />
+Every project should create measurable value.
+
+<br />
+<br />
+
+---
+
+<br />
+
+<img src="https://raw.githubusercontent.com/lovilabs/.github/main/profile/assets/lovilabs-icon.png" alt="" width="56" />
+
+<br />
+<br />
+
+**Have an idea worth building?**
+
+<a href="mailto:lovilabsco@gmail.com">lovilabsco@gmail.com</a> &nbsp;&middot;&nbsp; <a href="https://lovilabs.vercel.app/">lovilabs.vercel.app</a>
+
+<br />
+
+<sub>Ideas into impact. Built with purpose.</sub><br />
+<sub>&copy; Lovi Labs</sub>
+
+<br />
 
 </div>
