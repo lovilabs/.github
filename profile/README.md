@@ -5,41 +5,23 @@
 <img src="https://raw.githubusercontent.com/lovilabs/.github/main/profile/assets/lovilabs-wordmark.png" alt="Lovi Labs" width="460" />
 
 <br />
-<br />
 
 <i>Technology, thoughtfully built.</i>
 
-<br />
-
 We turn ideas into useful digital products.
 
-<br />
-
 <a href="https://lovilabs.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>&nbsp;<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-003087?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
-
-<br />
 
 <a href="https://www.linkedin.com/company/lovi-labs"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://web.facebook.com/profile.php?id=61594162310188"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.tiktok.com/@lovi_labs"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br />
-<br />
-
 <sub>S O F T W A R E &nbsp;&middot;&nbsp; D E S I G N &nbsp;&middot;&nbsp; A U T O M A T I O N</sub>
-
-<br />
-<br />
 
 ---
 
-<br />
-
 <sub>A B O U T</sub>
-
-<br />
-<br />
 
 Lovi Labs is a technology company building practical, modern<br />
 digital solutions for people and businesses.
@@ -47,21 +29,11 @@ digital solutions for people and businesses.
 We bring together **software, design, intelligent automation, and digital strategy**<br />
 to turn ideas into products that are useful, intuitive, and built with purpose.
 
-<br />
-
 <i>Good technology should make things clearer, simpler, and better.</i>
-
-<br />
-<br />
 
 ---
 
-<br />
-
 <sub>W H A T &nbsp; W E &nbsp; D O</sub>
-
-<br />
-<br />
 
 <table>
   <tr>
@@ -100,16 +72,9 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
   </tr>
 </table>
 
-<br />
-
 ---
 
-<br />
-
 <sub>T O O L S &nbsp; W E &nbsp; U S E</sub>
-
-<br />
-<br />
 
 <sub>L A N G U A G E S</sub>
 
@@ -185,8 +150,6 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
   </tr>
 
 </table>
-
-<br />
 
 <sub>D A T A &nbsp; &amp; &nbsp; M A C H I N E &nbsp; L E A R N I N G</sub>
 
@@ -269,8 +232,6 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
   </tr>
 
 </table>
-
-<br />
 
 <sub>W E B &nbsp; &amp; &nbsp; A P P S</sub>
 
@@ -375,8 +336,6 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
 
 </table>
 
-<br />
-
 <sub>D A T A B A S E S &nbsp; &amp; &nbsp; B I G &nbsp; D A T A</sub>
 
 <table>
@@ -452,8 +411,6 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
 
 </table>
 
-<br />
-
 <sub>C L O U D &nbsp; &amp; &nbsp; T O O L S</sub>
 
 <table>
@@ -512,16 +469,9 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
 
 </table>
 
-<br />
-
 ---
 
-<br />
-
 <sub>H O W &nbsp; W E &nbsp; W O R K</sub>
-
-<br />
-<br />
 
 <table>
   <tr>
@@ -544,43 +494,24 @@ to turn ideas into products that are useful, intuitive, and built with purpose.
   </tr>
 </table>
 
-<br />
-
 ---
 
-<br />
-
 <sub>W H A T &nbsp; W E &nbsp; B E L I E V E</sub>
-
-<br />
-<br />
 
 Technology should be useful.<br />
 Design should make complexity feel simple.<br />
 Automation should give people time for meaningful work.<br />
 Every project should create measurable value.
 
-<br />
-<br />
-
 ---
 
-<br />
-
 <img src="https://raw.githubusercontent.com/lovilabs/.github/main/profile/assets/lovilabs-icon.png" alt="" width="56" />
-
-<br />
-<br />
 
 **Have an idea worth building?**
 
 <a href="mailto:lovilabsco@gmail.com">lovilabsco@gmail.com</a> &nbsp;&middot;&nbsp; <a href="https://lovilabs.vercel.app/">lovilabs.vercel.app</a>
 
-<br />
-
 <sub>Ideas into impact. Built with purpose.</sub><br />
 <sub>&copy; Lovi Labs</sub>
-
-<br />
 
 </div>
