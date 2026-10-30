@@ -6,7 +6,7 @@
 
 <br />
 
-<i>Technology, thoughtfully built.</i>
+<br /><i>Technology, thoughtfully built.</i>
 
 We turn ideas into useful digital products.
 
