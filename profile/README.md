@@ -12,10 +12,10 @@ We turn ideas into useful digital products.
 
 <a href="https://lovilabs.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>&nbsp;<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-003087?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
 
-<a href="https://www.linkedin.com/company/lovi-labs"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://web.facebook.com/profile.php?id=61594162310188"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.tiktok.com/@lovi_labs"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/company/lovi-labs"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMi4yNSIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDQ0OCA1MTIiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik00MTYgMzJIMzEuOUMxNC4zIDMyIDAgNDYuNSAwIDY0LjN2MzgzLjRDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEg0MTZjMTcuNiAwIDMyLTE0LjUgMzItMzIuM1Y2NC4zYzAtMTcuOC0xNC40LTMyLjMtMzItMzIuM00xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNWMwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNW0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuN2MtMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNWM2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjl6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="https://web.facebook.com/profile.php?id=61594162310188"><img src="https://img.shields.io/badge/Facebook-0a0a0a?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
+<a href="https://www.tiktok.com/@lovi_labs"><img src="https://img.shields.io/badge/TikTok-0a0a0a?style=flat-square&logo=tiktok&logoColor=25F4EE" alt="TikTok" /></a>
+<a href="mailto:lovilabsco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <sub>S O F T W A R E &nbsp;&middot;&nbsp; D E S I G N &nbsp;&middot;&nbsp; A U T O M A T I O N</sub>
 
